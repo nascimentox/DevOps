@@ -1,3 +1,4 @@
 # DevOps
-Básico de Git e Github no Linuxx Mint
-Alteração do arquivos Readme
+Básico de Git e Github no Linux Mint <br>
+Alteração do arquivo Readme<br>
+Leonardo<br>
